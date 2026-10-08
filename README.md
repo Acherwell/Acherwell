@@ -1,24 +1,31 @@
-# Acherwell NOA
+# Abraham Nangue-Otom
 
-Étudiant en systèmes informatiques et électronique à l'UQAM, je construis des projets
-qui touchent autant au hardware qu'au software - systèmes embarqués, applications web et outils d'automatisation.
+Étudiant en systèmes informatiques et électroniques à l'UQAM (Montréal, Canada), je construis des projets qui touchent autant au hardware qu'au software : systèmes embarqués, applications web, API et outils d'automatisation.
 
 ## Stack
 
-**Langages** — C, C++, Python, JavaScript  
-**Embarqué** — Arduino, Raspberry Pi, MAVLink, GNU Radio  
-**Web** — React, Node.js, Express, Supabase  
-**Outils** — Git, Linux, Qt6, MATLAB
+**Langages** : C, C++, Python, JavaScript, GDScript  
+**Embarqué** : Arduino, Raspberry Pi, MAVLink, GNU Radio  
+**Web** : HTML, CSS, React, Vite, Tailwind CSS, Node.js, Express, Flask, Supabase, SQLite  
+**Outils** : Git, Linux, Qt6, MATLAB, Godot, Netlify
 
 ## Projets
 
-- **[monitoring-capteurs](https://github.com/AchwellNOA/monitoring-capteurs)** — Système de monitoring embarqué simulé avec Flask, logging CSV et dashboard web temps réel
-- **Café Sain Fractal** - (https://sainfractal.netlify.app/) Site web complet pour un café étudiant UQAM, backend Supabase, SEO, QR codes
+- **[Portfolio](https://github.com/Acherwell/portfolio)** : site personnel bilingue en JavaScript vanilla, animation au scroll et 3D chargée à la demande
+- **[Café Sain Fractal](https://sainfractal.netlify.app/)** : site complet pour un café étudiant de l'UQAM, backend Supabase, SEO, QR codes
+- **[monitoring-capteurs](https://github.com/Acherwell/monitoring-capteurs)** : monitoring de capteurs embarqués simulés avec Flask, logging CSV et dashboard web temps réel
+- **[capteurs-api](https://github.com/Acherwell/capteurs-api)** : API REST Flask qui expose des données de capteurs embarqués
+- **[api-node](https://github.com/Acherwell/api-node)** : API REST Express avec base SQLite et authentification JWT
+- **[basket-2d](https://github.com/Acherwell/basket-2d)** : jeu de basket arcade 2 joueurs en JavaScript vanilla et Canvas HTML5
 
 ## En ce moment
 
-Étudiant en BAC SIE à l'UQAM - à la recherche d'un stage été 2026.
+Étudiant en 3e année du BAC SIE à l'UQAM, ouvert aux stages et aux projets.
+
+**Contact** : otomabraham26@gmail.com
 
 ---
 
-📫 otomabraham26@gmail.com
+## English
+
+Computer and electronic systems student at UQAM (Montréal, Canada). I build projects spanning hardware and software: embedded systems, web applications, APIs and automation tools. Currently in my third year, open to internships and projects.
