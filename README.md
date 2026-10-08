@@ -6,7 +6,7 @@
 
 ## Stack
 
-**Langages** : C, C++ (Qt 6), Python, JavaScript, GDScript  
+**Langages** : C, C++ (Qt 6), Java, Python, JavaScript, GDScript  
 **Embarqué** : Arduino, Raspberry Pi, MAVLink, GNU Radio  
 **Web** : HTML, CSS, React, Vite, Tailwind CSS, Node.js, Express, Flask, Supabase, SQLite  
 **Outils** : Git, Linux, Qt6, MATLAB, Godot, Netlify
