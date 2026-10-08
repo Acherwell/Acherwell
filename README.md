@@ -2,6 +2,8 @@
 
 Étudiant en systèmes informatiques et électroniques à l'UQAM (Montréal, Canada), je construis des projets qui touchent autant au hardware qu'au software : systèmes embarqués, applications web, API et outils d'automatisation.
 
+**Portfolio** : https://portfolio-abraham-no.netlify.app/
+
 ## Stack
 
 **Langages** : C, C++, Python, JavaScript, GDScript  
@@ -11,7 +13,7 @@
 
 ## Projets
 
-- **[Portfolio](https://github.com/Acherwell/portfolio)** : site personnel bilingue en JavaScript vanilla, animation au scroll et 3D chargée à la demande
+- **[Portfolio](https://portfolio-abraham-no.netlify.app/)** ([code](https://github.com/Acherwell/portfolio)) : site personnel bilingue en JavaScript vanilla, animation au scroll et 3D chargée à la demande
 - **[Café Sain Fractal](https://sainfractal.netlify.app/)** : site complet pour un café étudiant de l'UQAM, backend Supabase, SEO, QR codes
 - **[monitoring-capteurs](https://github.com/Acherwell/monitoring-capteurs)** : monitoring de capteurs embarqués simulés avec Flask, logging CSV et dashboard web temps réel
 - **[capteurs-api](https://github.com/Acherwell/capteurs-api)** : API REST Flask qui expose des données de capteurs embarqués
@@ -28,4 +30,4 @@
 
 ## English
 
-Computer and electronic systems student at UQAM (Montréal, Canada). I build projects spanning hardware and software: embedded systems, web applications, APIs and automation tools. Currently in my third year, open to internships and projects.
+Computer and electronic systems student at UQAM (Montréal, Canada). I build projects spanning hardware and software: embedded systems, web applications, APIs and automation tools. Currently in my third year, open to internships and projects. Portfolio: https://portfolio-abraham-no.netlify.app/
