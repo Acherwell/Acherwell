@@ -24,7 +24,7 @@
 
 Étudiant en 3e année du BAC SIE à l'UQAM, ouvert aux stages et aux projets.
 
-**Contact** : otomabraham26@gmail.com
+**Contact** : contact@abrahamnangue-otom.com
 
 ---
 
