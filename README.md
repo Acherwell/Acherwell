@@ -14,7 +14,7 @@
 ## Projets
 
 - **[Portfolio](https://abrahamnangue-otom.com/)** ([code](https://github.com/Acherwell/portfolio)) : site personnel bilingue en JavaScript vanilla, animation au scroll et 3D chargée à la demande
-- **[AgriDrone AI](https://abrahamnangue-otom.com/pages/agridrone.html)** : drone agricole autonome (projet d'équipe, UQAM). Logiciel au sol en C++ et Qt 6 : missions sur carte, télémétrie MAVLink, analyse IA des images RGB et thermiques, rapports PDF
+- **[AgriDrone AI](https://abrahamnangue-otom.com/pages/agridrone)** : drone agricole autonome (projet d'équipe, UQAM). Logiciel au sol en C++ et Qt 6 : missions sur carte, télémétrie MAVLink, analyse IA des images RGB et thermiques, rapports PDF
 - **[Café Sain Fractal](https://sainfractal.netlify.app/)** : site complet pour un café étudiant de l'UQAM, backend Supabase, SEO, QR codes
 - **[monitoring-capteurs](https://github.com/Acherwell/monitoring-capteurs)** : monitoring de capteurs embarqués simulés avec Flask, logging CSV et dashboard web temps réel
 - **[capteurs-api](https://github.com/Acherwell/capteurs-api)** : API REST Flask qui expose des données de capteurs embarqués
